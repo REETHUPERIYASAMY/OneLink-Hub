@@ -6,8 +6,13 @@ TITLE: ONELINK HUB
 **Multiple platforms compatibility**: Available on the all-new mobile apps, as well as a website so it is responsive across devices.
 **Convenience and Efficiency**: To expedite the shopping process and spacing all platforms in the one place. 
 
+Technologies:
+*Kotlin/Java (App development Programming language)
+*Figma (UI design)
+*SQLite/Firebase (Backend Database)
+*JSON (Data Format for APIs)
+
 Setup Instruction:
-As this project currently does not have any code, here are placeholder instructions for potential future setup:
 1.Clone the repository (placeholder):
 git clone <repo-link>
 2.Navigate to the project directory:
@@ -16,3 +21,5 @@ cd onelink-hub
 ./gradlew build
 4.Run the application:
 ./gradlew installDebug 
+
+
