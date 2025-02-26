@@ -22,4 +22,5 @@ cd onelink-hub
 4.Run the application:
 ./gradlew installDebug 
 
-
+PPT LINK:https://drive.google.com/file/d/1e5uw1u2I_hwOAg7CjteCrKCicTCv3wJc/view?usp=drive_link
+PROTOTYPE LINK:https://drive.google.com/file/d/1zwthVssjIEroAk7U8C95NuP7hV64vN_c/view?usp=drive_link
